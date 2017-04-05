@@ -1,4 +1,4 @@
-> 中国国内CDN:  <a href="http://www.bootcdn.cn/material-design-icons/" target="_blank">http://www.bootcdn.cn/material-design-icons/</a>
+> 中国国内CDN:  [http://www.bootcdn.cn/material-design-icons/](http://www.bootcdn.cn/material-design-icons/)
 
 # Material design icons
 
